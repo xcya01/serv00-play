@@ -1,6 +1,6 @@
 name: 批量保活进程
 
-on:在：
+on:
   schedule:
     # 使用cron表达式定义任务运行的时间
     # github使用utc时间# github使用utc时间
